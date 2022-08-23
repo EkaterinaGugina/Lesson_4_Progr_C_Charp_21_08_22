@@ -1,0 +1,15 @@
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\bin\Debug\net6.0\Ex1_write_matrix.exe
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\bin\Debug\net6.0\Ex1_write_matrix.deps.json
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\bin\Debug\net6.0\Ex1_write_matrix.runtimeconfig.json
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\bin\Debug\net6.0\Ex1_write_matrix.dll
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\bin\Debug\net6.0\Ex1_write_matrix.pdb
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.csproj.AssemblyReference.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.AssemblyInfoInputs.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.AssemblyInfo.cs
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.csproj.CoreCompileInputs.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.dll
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\refint\Ex1_write_matrix.dll
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.pdb
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\Ex1_write_matrix.genruntimeconfig.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson4_Progr_21_08_22\Lesson_4_Progr_C_Charp_21_08_22\Ex1_write_matrix\obj\Debug\net6.0\ref\Ex1_write_matrix.dll
